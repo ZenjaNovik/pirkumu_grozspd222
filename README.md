@@ -1,5 +1,4 @@
 # pirkumu_grozspd222
-# pirkumu_grozspd
 
 class Prece:
     def __init__(self, nosaukums, cena):
